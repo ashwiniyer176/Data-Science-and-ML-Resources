@@ -1,0 +1,18 @@
+Distribution Plots:
+1.joinplot
+2.distplot
+3.pairplot
+4.rugplot
+
+Regression Plots
+1.Barplot
+2.Countplot
+3.Boxplot
+4.Violinplot
+5.Stripplot
+6.Swarmplot
+7.Factorplot
+
+Matrix Plots:
+1: Heatmaps
+2: Cluster maps
